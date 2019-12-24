@@ -1,0 +1,6 @@
+.idea/
+logHome_IS_UNDEFINED/
+*.log
+/.metadata/
+/*/build/
+/out/
